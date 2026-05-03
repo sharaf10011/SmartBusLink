@@ -25,6 +25,6 @@ operators, and passengers with secure authentication.
 3. Admin Module
 
 ## Developed By
-Mohammed Saleem Mohammed Sharaf  
-HND Computing & Software Engineering  
-ICBT Campus | Cardiff Metropolitan University
+- Mohammed Sharaf
+- HND Computing & Software Engineering
+- ICBT Campus | Cardiff Metropolitan University
